@@ -7,3 +7,16 @@ edition = "2021"
 
 [dependencies]
 regex = "1.8.1"
+[[bin]]
+name = "vectores"
+path = "/home/jesusx100/platzi-rustcurso/src/vectores.rs"
+
+[[bin]]
+name = "suma"
+path = "/home/jesusx100/platzi-rustcurso/src/suma.rs"
+[[bin]]
+name = "age"
+path = "/home/jesusx100/platzi-rustcurso/src/age.rs"
+[[bin]]
+name = "functions"
+path = "/home/jesusx100/platzi-rustcurso/src/functions.rs"

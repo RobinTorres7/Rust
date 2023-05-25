@@ -19,6 +19,6 @@ let numero_1 = 123;
             println!("El resultado {} no es correcto por favor intentalo de nuevo", suma_usuario_int);
         }
     
-    }*/
+    }
 
 }
