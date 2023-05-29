@@ -1,2 +1,9 @@
-# Rust
-primero ejercicios en rust
+# Rust - Curso Basico
+
+Este curso lo desarrolle en platzi
+
+https://platzi.com/cursos/rust-basico/
+
+Certificado del CURSO:
+
+
