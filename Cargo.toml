@@ -6,6 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+csv ="1.1.6"
 regex = "1.8.1"
 [[bin]]
 name = "vectores"
@@ -20,3 +21,6 @@ path = "/home/jesusx100/platzi-rustcurso/src/age.rs"
 [[bin]]
 name = "functions"
 path = "/home/jesusx100/platzi-rustcurso/src/functions.rs"
+[[bin]]
+name = "game"
+path = "/home/jesusx100/platzi-rustcurso/src/game.rs"
